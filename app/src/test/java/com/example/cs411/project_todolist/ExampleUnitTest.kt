@@ -1,4 +1,4 @@
-package com.example.vicky.todolist
+package com.example.cs411.project_todolist
 
 import org.junit.Test
 
